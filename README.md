@@ -1,4 +1,10 @@
-### Hi there 👋
+### **Eu sou Davi de Morais** 👋
+
+## Sobre mim:
+
+* Estudante do curso de ADS do IFPB. </br>
+* 18 anos
+* Brasil
 
 <!--
 **Davi-Morais/Davi-Morais** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
