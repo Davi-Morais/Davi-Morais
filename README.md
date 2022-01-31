@@ -3,7 +3,7 @@
 ## Sobre mim:
 
 * Estudante do curso de ADS do IFPB. </br>
-* 18 anos
+* 19 anos
 * Brasil
 
 <!--
