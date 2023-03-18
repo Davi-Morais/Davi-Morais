@@ -1,6 +1,6 @@
-### **Eu sou Davi de Morais** 👋
+## **Eu sou Davi de Morais** 👋
 
-## Sobre mim:
+### Sobre mim:
 <div>
   <ul>
     <li>Estudante do curso de ADS do IFPB.</li>
@@ -10,5 +10,4 @@
 </div>
 
 ##
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Davi-Morais)](https://github.com/Davi-Morais)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Davi-Morais&layout=compact&theme=dark)](https://github.com/Davi-Morais)
