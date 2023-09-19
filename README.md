@@ -8,9 +8,9 @@
 ##
 <a href="https://github.com/Davi-Morais">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davi-Morais&theme=tokyonight"
-       style="height:280px;"></img>
+       style="height:220px;"></img>
 </a>
 <a href="https://github.com/Davi-Morais">
   <img src="https://github-readme-stats.vercel.app/api?username=Davi-Morais&theme=tokyonight&count_private=false"
-       style="height:280px;"></img>
+       style="height:220px;"></img>
 </a>
