@@ -1,6 +1,6 @@
 ##
 <a href="https://github.com/Davi-Morais">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davi-Morais&theme=tokyonight&layout=donut"
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davi-Morais&theme=tokyonight&layout=compact"
        style="height:202px;"></img>
 </a>
 <a href="https://github.com/Davi-Morais">
